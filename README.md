@@ -1,3 +1,1 @@
-# muj super projekt
-
-Něco
+# Maturitní práce - Juráš Válek
